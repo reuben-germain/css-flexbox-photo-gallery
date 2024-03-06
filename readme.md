@@ -1,0 +1,1 @@
+![Beautiful Photo Galley](ss-photo-gallery.png)
